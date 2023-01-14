@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Driton-Gashi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: IG @Driton_.gashi
+- 👀 I’m interested in Web Development and Front End Technologies
+- 🌱 I’m currently learning React JS 
+- 📫 How to reach me: Instagram: @Driton_.gashi
 
 <!---
 Driton-Gashi/Driton-Gashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
