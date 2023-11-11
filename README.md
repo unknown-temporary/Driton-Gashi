@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Driton Gashi
 - 👀 I’m interested in Web Development and Front End Technologies
-- 🌱 I’m currently learning React JS 
+- 🌱 I’m currently learning .NET
 - 📫 How to reach me: Instagram: @Driton_.gashi
 
 <!---
